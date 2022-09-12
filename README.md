@@ -1,4 +1,4 @@
 # convertCtoF
 #JS begginer
-testingJS
+#testingJS
 This is a temperature convertor using simple js code.
